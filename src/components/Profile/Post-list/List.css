@@ -1,0 +1,9 @@
+.list-img {
+  height: 50px;
+  width: 50px;
+  margin-right: 50px;
+}
+.item {
+  background-color: rgb(151, 231, 205);
+  margin-top: 20px;
+}

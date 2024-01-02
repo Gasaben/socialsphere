@@ -1,0 +1,17 @@
+.nav-bar {
+  grid-area: nav;
+  background-color: #f5cb5c;
+  padding: 15px;
+}
+ul li {
+  list-style-type: none;
+}
+.item {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.active {
+  color: white;
+  font-size: 30px;
+}
